@@ -1,7 +1,8 @@
 # July-Code-Pudding---TripleTen
 Link to Tableau Presentation: https://public.tableau.com/app/profile/jason.parker7454/viz/CodePuddingFinalProject/AmazonKindleAnalysis
 
-OVERVIEW: Uncovering the Patterns of Kindle: Reviews, Reads, and Reach 
+<strong>OVERVIEW</strong> 
+Uncovering the Patterns of Kindle: Reviews, Reads, and Reach 
 
 Introduction:
  
@@ -41,7 +42,7 @@ Reader engagement has grown steadily. With most books being published by Amazon 
 
 
 
-RECOMMENDATIONS
+<strong>RECOMMENDATIONS</strong>
 
 To support new and emerging authors gain traction, we suggest the following strategic guidelines:
 
