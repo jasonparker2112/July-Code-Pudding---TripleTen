@@ -23,7 +23,7 @@ Which Category of Best Sellers has the most reader participation?
 
 
 
-CONCLUSION
+<strong>CONCLUSION</strong>
 
 Genre & Reader Engagement Trends
 
