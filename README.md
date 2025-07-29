@@ -1,7 +1,7 @@
 # July-Code-Pudding---TripleTen
 Link to Tableau Presentation: https://public.tableau.com/app/profile/jason.parker7454/viz/CodePuddingFinalProject/AmazonKindleAnalysis
 
-<strong>OVERVIEW</strong> 
+<strong>OVERVIEW:</strong> 
 Uncovering the Patterns of Kindle: Reviews, Reads, and Reach 
 
 Introduction:
